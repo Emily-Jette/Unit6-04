@@ -1,3 +1,4 @@
+// This code is disigned to calculate the area of a trapezoid.
 let a = 0
 let b = 0
 let height = 0
@@ -15,4 +16,3 @@ function calculate () {
   area = ((a+b)/2)*height
   document.getElementById('answer').innerHTML = area
 }
-
