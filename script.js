@@ -7,9 +7,9 @@ let area = 0
 document.getElementById('button').addEventListener('click', calculate)
 
 function calculate () {
-  a = document.getElementById('baseA').value
+  a = document.getElementById('basea').value
   a = parseInt(a)
-  b = document.getElementById('baseB').value
+  b = document.getElementById('baseb').value
   b = parseInt(b)
   height = document.getElementById('height').value
   height = parseInt(height)
