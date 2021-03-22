@@ -1,0 +1,32 @@
+#main-page {
+  background-color: darkseagreen;
+}
+
+#heading {
+  color: whitesmoke;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#image {
+  width: 400px;
+  height: 200px;
+}
+
+.text-box {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: mediumvioletred;
+  border: 5px groove lightblue;
+  padding: 3px;
+  width: 500px;
+}
+
+.text {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: cornsilk;
+}
+
+#button {
+  border: 3px solid moccasin;
+  color: rgb(131, 71, 173);
+  background-color: lavender;
+}
