@@ -13,6 +13,6 @@ function calculate () {
   b = parseInt(b)
   height = document.getElementById('height').value
   height = parseInt(height)
-  area = ((a+b)/2)*height
+  area = ((a + b) / 2) * height
   document.getElementById('answer').innerHTML = area
 }
